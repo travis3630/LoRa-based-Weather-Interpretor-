@@ -13,5 +13,7 @@ Battery Interface Circuit Board
 Connections
 -----------
 -Battery Interface - Dragino LoRA Shield - Arduino
+
 -DHT22 Signal - Digital IO Pin2
+
 -TEMT6000 - Analog 0
